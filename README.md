@@ -1,4 +1,6 @@
-### Oii! Eu sou o Thiago Silva
+### Olá, seja bem vindo(a)! Eu sou o Thiago Silva 
+
+Sou formado em Análise e Desenvolvimento de Sistemas e estou estudando Desenvolvimento Front-End na Alura. Apesar de ser empreendedor no rumo de lan house, fornecendo diversos de serviços para clientes, sempre tive interesse na área de tecnologia, em descobrir como as tecnologias funcionam por trás, e fiquei curioso e decidi aprender como tudo acontece por trás das telas e das máquinas. Então, para mim, a programação se encaixou de tal forma, que me deixou mais curioso e apaixonado e pretendo sempre participar de projetos que, de alguma forma, causem impacto positivo na sociedade, visando a resolução de problemas e otimizando tempo.
 
 
 - 🔭 Estudando as tecnologias do Front-end
